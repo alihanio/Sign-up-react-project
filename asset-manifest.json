@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sign-up-react-project/static/css/main.c7ec3132.css",
+    "main.js": "/Sign-up-react-project/static/js/main.772308b7.js",
+    "static/media/bacground-image.png": "/Sign-up-react-project/static/media/bacground-image.e0150046d36ec52c270f.png",
+    "index.html": "/Sign-up-react-project/index.html",
+    "main.c7ec3132.css.map": "/Sign-up-react-project/static/css/main.c7ec3132.css.map",
+    "main.772308b7.js.map": "/Sign-up-react-project/static/js/main.772308b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.772308b7.js"
+  ]
+}
